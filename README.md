@@ -1,4 +1,4 @@
-# Tripslit
+# Split Trip
 A phone-first classroom MVP for planning group trips and funding each traveler's share before booking.
 
 ## Try the demo
@@ -19,8 +19,8 @@ In repository Settings → Pages, select “Deploy from a branch”, then the ma
 
 ## Files
 - index.html: mobile app interface and illustrations
-- style.css: cobalt-and-mint Tripslit visual identity
+- style.css: cobalt-and-mint Split Trip visual identity
 - app.js: browser-local trip planning and funding logic
-- logo.svg: Tripslit shared-route logo
+- logo.svg: Split Trip shared-route logo
 
 External Google Fonts are optional; system fonts are used when unavailable.
